@@ -50,10 +50,10 @@ The calculator will prompt you to enter two numbers and an operator. The support
 
 Example:
 ```
-Enter first number: 5
 Enter an operator (+, -, *, /): +
+Enter first number: 5
 Enter second number: 3
-Result: 8
+Result: 5+3=8
 ```
 
 ## Contributing
